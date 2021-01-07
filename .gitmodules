@@ -1,0 +1,3 @@
+[submodule "basic_initramfs"]
+	path = basic_initramfs
+	url = https://github.com/ntegan/basic_initramfs
